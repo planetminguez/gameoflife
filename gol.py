@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-### https://www.youtube.com/watch?v=cRWg2SWuXtM
+### @planetminguez
 
 import time
 import numpy as np
